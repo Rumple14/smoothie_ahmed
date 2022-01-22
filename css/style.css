@@ -63,3 +63,27 @@
 .header_link:hover {
     text-decoration: underline;
 }
+
+.about{
+    height: 544px;
+    width: 100%;
+}
+.about_inner{
+    width: 80%;
+    margin: auto;
+    padding-top: 93px;
+}
+.about_title{
+    font-size: 35px;
+    font-weight: bold;
+}
+.about_content{
+    margin-top: 76px;
+}
+.about_text{
+    font-size: 28px;
+    line-height: 1.5;
+}
+.about_text1{
+    margin-bottom: 50px;
+}
